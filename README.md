@@ -1,6 +1,5 @@
 <h1 align="center">
-   Blank Grabber
-</h1>
+Xbinder V2</h1>
 <p align= "center">
    <kbd>
    <img  src="https://raw.githubusercontent.com/Blank-c/Blank-Grabber/main/.github/workflows/image.png">
